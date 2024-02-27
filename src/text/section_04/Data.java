@@ -30,6 +30,9 @@ public class Data {
         double valDouble2 = 123.456;
         int    valInt    = (int)valDouble2; // 小数部分はカットされる
         System.out.println(valInt);
+        
+        char c = 65;
+        System.out.println(c);
 
 	}
 
